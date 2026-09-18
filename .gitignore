@@ -1,0 +1,15 @@
+# Compiled files
+a.out
+*.o
+*.exe
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
